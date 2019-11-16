@@ -6,3 +6,5 @@ categories: jekyll update
 comments: true
 ---
 laxlax
+
+![Icon](/pics/icon.jpg)
