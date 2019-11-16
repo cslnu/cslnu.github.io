@@ -31,7 +31,7 @@ theme: minima
 plugins:
   - jekyll-feed
 disqus:
-  shortname: my_disqus_shortname
+  shortname: cslnu
 
 # Exclude from processing.
 # The following items will not be processed, by default.
