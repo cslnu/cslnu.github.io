@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Placeholder lax.
 baseurl: / # the subpath of your site, e.g. /blog
 url: https://cslnu.github.io # the base hostname & protocol for your site, e.g. http://example.com
-type: Website
 github_username:  cslnu
+type: website
 
 # Build settings
 theme: minima

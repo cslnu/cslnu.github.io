@@ -2,8 +2,8 @@
 layout: page
 title: About me
 permalink: /about/
-image: /pics/icon_small.png
 type: website
+image: /pics/icon_small.png
 ---
 This section is about me. 
 

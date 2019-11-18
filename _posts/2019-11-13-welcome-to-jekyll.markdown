@@ -3,7 +3,6 @@ layout: post
 title:  "Welcome to Jekyll!"
 date:   2019-11-13 08:59:00 -0600
 categories: jekyll update
-image: /pics/icon_small.png
 type: blog
 ---
 laxlax
