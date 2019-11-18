@@ -3,8 +3,10 @@ layout: post
 title:  "First!"
 date:   2019-11-16
 categories: jekyll update
-comments: true
+image: /pics/icon_small.png
+type: blog
 ---
 laxlax
 
 ![Icon](/pics/icon.jpg)
+![Icon](/pics/icon_small.jpg)

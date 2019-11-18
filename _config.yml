@@ -21,15 +21,17 @@
 title: cs223te
 email: cs223te@student.lnu.se
 description: >- # this means to ignore newlines until "baseurl:"
-  riktigt fet beskrivning.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+  Placeholder lax.
+baseurl: / # the subpath of your site, e.g. /blog
+url: https://cslnu.github.io # the base hostname & protocol for your site, e.g. http://example.com
+type: Website
 github_username:  cslnu
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 disqus:
   shortname: cs223te
 
