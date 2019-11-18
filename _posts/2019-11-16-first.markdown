@@ -8,5 +8,5 @@ type: blog
 ---
 laxlax
 
-![Icon](/pics/icon.jpg)
-![Icon](/pics/icon_small.jpg)
+![Icon](/pics/icon.png)
+![Icon](/pics/icon_small.png)
