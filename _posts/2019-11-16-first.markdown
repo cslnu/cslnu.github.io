@@ -6,7 +6,12 @@ categories: jekyll update
 image: /pics/icon_small.png
 type: blog
 ---
-laxlax
+## First post!
 
-![Icon](/pics/icon.png)
-![Icon](/pics/icon_small.png)
+1. One
+* Two
+
+* Three
+1. Four
+
+### Quality content at it's finest!

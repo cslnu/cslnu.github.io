@@ -6,4 +6,8 @@ layout: home
 type: website
 image: /pics/icon_small.png
 ---
-Hej 
+# It doesn't get more exciting than this!
+
+That's it! Oh yeah, here's an image! 
+
+![Icon](/pics/icon_small.png)

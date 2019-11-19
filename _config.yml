@@ -21,7 +21,7 @@
 title: cs223te
 email: cs223te@student.lnu.se
 description: >- # this means to ignore newlines until "baseurl:"
-  Placeholder lax.
+  This is my very simplistic website that most likely contains both misspelled words and static blog posts.
 baseurl: / # the subpath of your site, e.g. /blog
 url: https://cslnu.github.io # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  cslnu
